@@ -2,7 +2,7 @@
 # Creds:
 Daria Zhestkova, 971902 HITs, email daria.zhestkovahits@gmail.com
 # How to:
-foo@bar:~$ python3 ./app.py filepath/path
+foo@bar:~$ python3 ./app.py filepath/file.wav
 # Secret words:
 1. Портвейн
 2.
